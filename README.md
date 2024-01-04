@@ -1,6 +1,7 @@
 # flipkart__
 
-![Web capture_2-1-2024_182230_](https://github.com/gopikarp/Flipkart-UI/assets/100861026/2ace01da-b401-4293-82b6-9dd91184488d)
+<img src= "https://github.com/gopikarp/Flipkart-UI/assets/100861026/2ace01da-b401-4293-82b6-9dd91184488d" height="500"> 
+
 
 
 https://github.com/gopikarp/Flipkart-UI/assets/100861026/94a74e00-75ed-4438-9d45-45e8aef58f4c
